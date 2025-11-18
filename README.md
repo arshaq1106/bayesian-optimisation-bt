@@ -31,6 +31,6 @@ The project currently lives in three Jupyter notebooks:
   - Use Johansen cointegration vectors to construct spreads.  
   - Build a simple mean-reversion trading rule on the spread (e.g. z-score thresholds).  
   - Train and test the strategy on separate segments (currently simple split, not rolling/expanding windows yet).  
-  - First experiments with **Bayesian optimisation** for tuning strategy hyperparameters (e.g. lookback, entry/exit levels).
+
 
 As the project evolves, these will likely be refactored into reusable Python modules.
